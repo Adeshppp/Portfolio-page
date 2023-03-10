@@ -1,3 +1,9 @@
+# Deployment
+
+You can access this site on : https://dancing-palmier-dc33f2.netlify.app
+
+Because of some reason github deployment is not woprking properly.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
